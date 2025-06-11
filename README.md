@@ -26,6 +26,11 @@ This project presents a detailed analysis of global COVID-19 data using Power BI
 
 ---
 
+## 📷 Preview
+![image](https://github.com/user-attachments/assets/4f8bc633-8914-45f8-bc36-ff2a720c273c)
+
+---
+
 ## 📈 Purpose
 
 The dashboard aims to help policymakers, researchers, and the public understand the progression and control measures of the COVID-19 pandemic using interactive data visuals.
